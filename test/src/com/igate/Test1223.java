@@ -5,6 +5,7 @@ public class Test1223 {
 		System.out.println("done");
 		System.out.println("again");
 		System.out.println("test");
+		System.out.println("from branch");
 	}
 
 }
